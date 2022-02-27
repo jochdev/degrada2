@@ -1,0 +1,46 @@
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+
+.cileft {
+  background-color: #757882;
+}
+
+.form-check-input:checked {
+  background-color: #ff6473;
+  border-color: #ff6473;
+}
+
+input:focus,
+select:focus,
+select,
+input.form-control:focus {
+  border: 1px solid #ff6473;
+  outline: none !important;
+
+  outline-width: 0 !important;
+
+  box-shadow: none;
+
+  -moz-box-shadow: none;
+
+  -webkit-box-shadow: none;
+}
+
+.ishow {
+  position: relative;
+  bottom:  0px;
+  min-width: 100%;
+}
+
+.lead{font-size: 12px;}

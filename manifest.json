@@ -1,0 +1,57 @@
+{
+    "name":"Degrada2 - Generador de degradados",
+    "short_name":"Degrada2 App",
+    "description":"Es una herramienta web de uso gratuito para generar degradados a partir de dos colores que puedes copiar para tus diseños.",
+    "background_color":"#ff6473",
+    "theme_color":"#ff6473",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope":"./",
+    "lang":"es-VE",
+    "display":"fullscreen",
+    "orientation":"portrait",
+    "icons":[
+        {
+            "src": "./assets/img/favicon.png",
+            "sizes":"16x16",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/icon32.png",
+            "sizes":"32x32",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/icon64.png",
+            "sizes":"64x64",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/icon128.png",
+            "sizes":"128x128",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/maskable.png",
+            "sizes":"192x192",
+            "type":"image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "./assets/img/icon256.png",
+            "sizes":"256x256",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/icon512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        },
+        {
+            "src": "./assets/img/icon1024.png",
+            "sizes":"1024x1024",
+            "type":"image/png"
+        }
+    ]
+
+}
+
